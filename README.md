@@ -91,7 +91,7 @@ Electricity Billing Management System is a Desktop based application which is de
         
          
        
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/login.png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/login.Screenshot%20(3032).png)
  
  ### 4.Details Class[Main Dashboard]
           This class consists of different options in the header such as:-
