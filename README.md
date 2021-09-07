@@ -168,7 +168,7 @@ Electricity Billing Management System is a Desktop based application which is de
 ## License
    ### MIT LICENSE
 link:https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/LICENSE
-        MIT License
+       MIT License
 
 Copyright (c) 2021 Kunal Kumar Das
 
@@ -196,4 +196,3 @@ SOFTWARE.
    * MY SQL
         
         This project Wouldn't have been possible without these tools.It Saved my enormous  amount of time while collecting the data. 
-Electricity Billing Management System is a Desktop Application which can serve the Electricity Department by computerizing the billing  system by paying  electricity bill of a specific time online
