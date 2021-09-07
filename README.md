@@ -132,7 +132,7 @@ Electricity Billing Management System is a Desktop based application which is de
 ### 7.DepositDetails Class
            Admin can view,search and print the electricity bill deposit details such as meter number,
            month,units,total bill and status by sorting the meter number and month from the scroll panel. 
-![Development and Design]()
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/depositdetails.screenshot.png)
 
 ### 8.Remove_Employee Class
         Admin can REMOVE details/records of any employee by using Employee ID of that particular employee.
