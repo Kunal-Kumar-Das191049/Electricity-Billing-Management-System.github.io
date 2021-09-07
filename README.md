@@ -40,40 +40,43 @@ Electricity Billing Management System is a Desktop based application which is de
 ## Sections 
 
 ### 1. Login Page
-         It consists of Username and Password which the existing admin can use to login into
+         It consists of Username and Password which the existing admin/consumers can use to login into
          the main Dashboard of this application.
          
-         
-
-### 2. Employee Details
-        It Consists of 4 Columns:-
-              1. Add 
-                 
-              2. View
-                 
-              3. Remove
-               
-              4. Update
-                
-              
- ### 2. Add Employee                
-            Admin can add details of a new employee by filling the 
-            necessary details like:-
-            Name              Job Post          Phone
-            Address           Employee ID       Education
-            Age               Father's name     Aadhar No
-            Email ID          Date Of Birth 
-                       
- ### 3. View
-            It consists of Employee ID which the admin can enter to view details of a particular employee
-            in the Print window.
+### 2. Signup Page         
+        It consists of Username,Password and meter number which the  admin/consumers can use to create
+        their account in order to login into  the main Dashboard of this application.
  
- ### 4.Remove
-            Here the Admin can remove records of any Employee by entering their Employee ID.
+### 3. Menu
+        1. New Customer:-      Admin can add new consumers by filling the necessary details such as name,email id,
+                               Phone number,Address etc. 
+        
+        2. Customer Details:-  Admin can view the details such as Customer Name ,Meter number, Address etc of all 
+                               consumers.
+                               
+        3. Deposit Details:-   Admin can view,search and print the electricity bill deposit details such as meter number,
+                               month,units,total bill and status by sorting the meter number and month from the scroll panel. 
+                                
+        4. Calculate Bill:-    Admin can calculate the electricity bill of any consumers by selecting the meter number and
+                               month from the scroll panel and filling the units consumed in that particular month.
+                            
+### 4. Utility
+        Admin and consumers can use utilities/applications like NOTEPAD,CALCULATOR and WEB BROWSER according to their
+        requirement.
+              
+### 5. Information
+        1. Update Information:- consumers can update their any details and information.
+         
+        2. View Information:-   consumers can view their details.
+ ### 6. User
+         1. pay Bill:-      consumers can pay their electricity bill by selecting the month from the scroll panel. 
+         
+         2. Bill Details:-  consumers can view their bill details such as meter no, month,total bill and status.
+ ### 7.Report
+          Generate bill:- consumers can generate their electricity bill by selecting the desired month from
+                          the scroll panel.
            
- ### 5.Update
-            Here the Admin can Update the details of any Employee by entering the Employee ID in the
-            Search Window.
+
        
  ## Java Classes
  
