@@ -18,19 +18,19 @@ Link:https://drive.google.com/file/d/1T5EuIp6oH6toU9vR_P3b8AX1DHMCemWe/view?usp=
 
 ## Description
 
-Employee Management System is a Desktop based application developed using Java language with Net beans 12 IDE.The concept used is swing and database used for for this project is MySQL.
+Electricity Billing Management System is a Desktop based application which is developed by using JAVA language on Netbeans12 IDE using the concept of SWING.The database used in this project is MySql.
+👉Admins/Consumers can create their account in order to login into the main dashboard of this Application.
 
-👉Admins can ADD details of employees.
+👉Admins can ADD,VIEW the details of all consumers.
 
-👉Admins can VIEW the details of any employee by using the Employee ID of that particular employee.
+👉Admins can CALCULATE  the electricity bill of all consumers.
 
+👉Admins/Consumers can use utilities such as NOTEPAD,CALCULATOR,WEB BROWSER.
 
+👉Consumers can UPDATE/VIEW their Information or Details.
 
-👉It can also UPDATE details of any employee.
+👉Consumers can PAY and GENERATE their Electricity Bill online.
 
-👉Admin can also PRINT details/records of any employee.
-
-👉Admin can REMOVE details/records of any employee by using Employee ID of that particular employee.
 
 
 ## Objective and Aim 
