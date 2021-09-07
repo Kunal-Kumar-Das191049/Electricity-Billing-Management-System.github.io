@@ -110,18 +110,18 @@ Electricity Billing Management System is a Desktop based application which is de
                                       
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/main%20dashboard.Screenshot%20(3069).png)
 
-   ### 5.Add_Employee Class
-          Here the admin can  add the details of a new customer.It has 11 textfields as follows:-
-               1.Name                    8.Date of Birth
-               2.Address                 9.Phone
-               3.Age                     10.Education
-               4.Email ID                11.Aadhar No
-               5.Job Post
-               6.Employee ID
-               7.Father's name
+   ### 5.NewCustomer Class
+          Here the admin can  add the details of a new customer.It has 7 textfields as follows:-
+               1.Customer Name                    
+               2.Meter number                
+               3.Address                    
+               4.City               
+               5.State
+               6.Email 
+               7.Phone number
 
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Add%20details.png)
+![Development and Design]()
 
  ### 6.View_Employee Class
           It consists of Employee ID which the admin can enter to view details of a particular employee
