@@ -139,7 +139,7 @@ Electricity Billing Management System is a Desktop based application which is de
           month from the scroll panel and filling the units consumed in that particular month.
 
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/calculatebill.Screenshot%20(3074).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/calculatebill.screenshots.png)
 
 ### 9.Search_Employee Class
           It consists of  a textfield i.e Employee Id which the Admin has to enter to update the details
