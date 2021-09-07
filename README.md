@@ -34,8 +34,9 @@ Electricity Billing Management System is a Desktop based application which is de
 
 
 ## Objective and Aim 
-    This Application can serve the Electricity Department by computerizing the billing  system by paying  electricity bill 
-    of a specific time online.It make the Overall billing system easy to access and effective for the users.
+    This Application can serve the Electricity Department by computerizing the billing  system by paying 
+    electricity bill  of a specific time online.It make the Overall billing system easy to access and 
+    effective for the users.
 
 ## Sections 
 
