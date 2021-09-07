@@ -134,11 +134,12 @@ Electricity Billing Management System is a Desktop based application which is de
            month,units,total bill and status by sorting the meter number and month from the scroll panel. 
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/depositdetails.screenshot.png)
 
-### 8.Remove_Employee Class
-        Admin can REMOVE details/records of any employee by using Employee ID of that particular employee.
+### 8.CalculateBill Class
+          Admin can calculate the electricity bill of any consumers by selecting the meter number and
+          month from the scroll panel and filling the units consumed in that particular month.
 
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Remove%20Employee.png)
+![Development and Design]()
 
 ### 9.Search_Employee Class
           It consists of  a textfield i.e Employee Id which the Admin has to enter to update the details
