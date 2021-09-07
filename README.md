@@ -95,7 +95,7 @@ Electricity Billing Management System is a Desktop based application which is de
  ### 3.Signup class
           It consists of Username,Password and meter number which the  admin/consumers can use to create
           their account in order to login into  the main Dashboard of this application. 
- ![Development and Design]()         
+ ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/create%20account.Screenshot%20(3033).png)         
  ### 4.Details Class[Main Dashboard]
           This class consists of different options in the header such as:-
                   
