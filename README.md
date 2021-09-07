@@ -3,7 +3,7 @@
 
 1. [Demo](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#demo)
 2. [Description](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#description)
-3. [Objective And Aim](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/README.md#objective-and-aim)
+3. [Objective And Aim](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/README.md#objective-and-aim)
 4. [Sections](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/README.md#sections)
 5. [Java Classes](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/README.md#java-classes)
 6. [Conclusion](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/README.md#conclusion)
