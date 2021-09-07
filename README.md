@@ -72,12 +72,14 @@ Electricity Billing Management System is a Desktop based application which is de
          
         2. View Information:-   consumers can view their details.
  ### 6. User
-         1. pay Bill:-      consumers can pay their electricity bill by selecting the month from the scroll panel. 
+         1. pay Bill:-      consumers can pay their electricity bill by selecting the month from the
+                            scroll panel. 
          
-         2. Bill Details:-  consumers can view their bill details such as meter no, month,total bill and status.
+         2. Bill Details:-  consumers can view their bill details such as meter no, month,total bill
+                            and status.
  ### 7.Report
-          Generate bill:- consumers can generate their electricity bill by selecting the desired month from
-                          the scroll panel.
+          Generate bill:- consumers can generate their electricity bill by selecting the desired month 
+                           from the scroll panel.
            
 
        
