@@ -108,7 +108,7 @@ Electricity Billing Management System is a Desktop based application which is de
 
           
                                       
-![Development and Design]()
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/main%20dashboard.Screenshot%20(3069).png)
 
    ### 5.Add_Employee Class
           Here the admin can  add the details of a new customer.It has 11 textfields as follows:-
