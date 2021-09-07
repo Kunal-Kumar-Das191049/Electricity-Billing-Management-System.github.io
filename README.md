@@ -144,13 +144,12 @@ Electricity Billing Management System is a Desktop based application which is de
 ### 9.UpdateInformation Class
          consumers can update their any details and information.
 
-![Development and Design]()
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/updateinformation.screenshot.png)
 
-### 10.Update_Employee Class
-          Here the Admin can Update the details of any Employee by entering the Employee ID in the
-          Search Window.
+### 10.ViewInformation Class
+         consumers can view their details.
           
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/Update_Employee.png)
+![Development and Design]()
 
 ## Conclusion
          This application can help the organizations to maintain the the records of their Employees rather than 
