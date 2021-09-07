@@ -160,11 +160,11 @@ Electricity Billing Management System is a Desktop based application which is de
           consumers can generate their electricity bill by selecting the desired month from  the scroll panel.
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/generatebill.Screenshot%20(3043).png)
 ## Conclusion
-         This application can help the organizations to maintain the the records of their Employees rather than 
-         using pen,paper and registers.
+         This application can help the electricity department in computerizing the billing system by paying the electricity bill 
+         of a specific time online.It will save time of consumers .It makes the Overall billing system easy to access and
+         and effective for the users.
          
-         Since it is a paperless mode of maintaining records so it is also ENVIRONMENT FRIENDLY as well as CLUTTER
-         FREE for the orgainzations.
+        
 ## License
    ### MIT LICENSE
 link:https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/LICENSE
