@@ -150,7 +150,9 @@ Electricity Billing Management System is a Desktop based application which is de
          consumers can view their details.
           
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/viewinformation.screenshot.png)
-
+### 10. PayBill
+        consumers can pay their electricity bill by selecting the month from the scroll panel. 
+![Development and Design]()
 ## Conclusion
          This application can help the organizations to maintain the the records of their Employees rather than 
          using pen,paper and registers.
