@@ -14,7 +14,7 @@
 Link:https://drive.google.com/file/d/1T5EuIp6oH6toU9vR_P3b8AX1DHMCemWe/view?usp=sharing
 
 
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Employee-Management-System/blob/master/demo.png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/demo.png)
 
 ## Description
 
