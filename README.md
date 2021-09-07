@@ -121,7 +121,7 @@ Electricity Billing Management System is a Desktop based application which is de
                7.Phone number
 
 
-![Development and Design]()
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/New%20customerScreenshot%20(3035).png)
 
  ### 6.View_Employee Class
           It consists of Employee ID which the admin can enter to view details of a particular employee
