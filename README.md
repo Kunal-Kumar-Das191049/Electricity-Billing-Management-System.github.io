@@ -50,20 +50,22 @@ Electricity Billing Management System is a Desktop based application which is de
  
 ### 3. Menu
         1. New Customer:-      Admin can add new consumers by filling the necessary details such as name,email id,
-                               Phone number,Address etc. 
+                                name,email id,Phone number,Address etc. 
         
         2. Customer Details:-  Admin can view the details such as Customer Name ,Meter number, Address etc of all 
                                consumers.
                                
-        3. Deposit Details:-   Admin can view,search and print the electricity bill deposit details such as meter number,
-                               month,units,total bill and status by sorting the meter number and month from the scroll panel. 
+        3. Deposit Details:-   Admin can view,search and print the electricity bill deposit details such as meter
+                               number,month,units,total bill and status by sorting the meter number and month from 
+                               the scroll panel. 
                                 
-        4. Calculate Bill:-    Admin can calculate the electricity bill of any consumers by selecting the meter number and
-                               month from the scroll panel and filling the units consumed in that particular month.
+        4. Calculate Bill:-    Admin can calculate the electricity bill of any consumers by selecting the meter 
+                               number andmonth from the scroll panel and filling the units consumed in that 
+                               particular month.
                             
 ### 4. Utility
-        Admin and consumers can use utilities/applications like NOTEPAD,CALCULATOR and WEB BROWSER according to their
-        requirement.
+        Admin and consumers can use utilities/applications like NOTEPAD,CALCULATOR and WEB BROWSER according 
+        to their requirement.
               
 ### 5. Information
         1. Update Information:- consumers can update their any details and information.
@@ -161,8 +163,9 @@ Electricity Billing Management System is a Desktop based application which is de
           consumers can generate their electricity bill by selecting the desired month from  the scroll panel.
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/generatebill.Screenshot%20(3043).png)
 ## Conclusion
-         This application can help the electricity department in computerizing the billing system by paying the electricity bill 
-         of a specific time online.It will save time of consumers .It makes the Overall billing system easy to access and
+         This application can help the electricity department in computerizing the billing
+         system by paying the electricity bill of a specific time online.It will save time 
+         of consumers .It makes the Overall billing system easy to access and
          and effective for the users.
          
         
