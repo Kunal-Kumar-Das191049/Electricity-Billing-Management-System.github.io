@@ -127,7 +127,7 @@ Electricity Billing Management System is a Desktop based application which is de
          Admin can view the details such as Customer Name ,Meter number, Address etc of all consumers.
                                
 
-![Development and Design]()
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Electricity-Billing-Management-System/blob/master/customer%20details.Screenshot%20(3073).png)
 
 ### 7.Print_data Class
            Admin can also PRINT details/records of any employee by entering Employee ID in the view employee window.
